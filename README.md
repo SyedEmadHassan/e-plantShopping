@@ -1,1 +1,2 @@
-# coding-project-template
+# Paradise Nursery
+React and Redux application 
